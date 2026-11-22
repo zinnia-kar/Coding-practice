@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zinnia-kar/Coding-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zinnia-kar/Coding-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/zinnia-kar/Coding-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/zinnia-kar/Coding-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/zinnia-kar/Coding-practice/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zinnia-kar/Coding-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zinnia-kar/Coding-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/zinnia-kar/Coding-practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
